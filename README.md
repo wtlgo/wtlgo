@@ -1,6 +1,8 @@
 [![wtlgo's github stats](https://github-readme-stats.vercel.app/api?username=wtlgo&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtlgo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Codeward](https://www.codewars.com/users/MikChan/badges/large)](https://www.codewars.com/users/MikChan)
+[![Codewars](https://www.codewars.com/users/MikChan/badges/large)](https://www.codewars.com/users/MikChan)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=wtlgo&theme=onedark&column=-1)
+
 <!--
 **wtlgo/wtlgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
